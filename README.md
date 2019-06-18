@@ -20,7 +20,8 @@ We will provide prepared and cleaned datasets in .csv-format for a subset of the
 * [Overview](https://datakatalogen.vegdata.no/) of all the data available in NVDB. 
 * [API documentation](https://www.vegvesen.no/nvdb/apidokumentasjon/)
 * [Geographic overview](https://www.vegvesen.no/vegkart/)
-* [Accident data](https://drive.google.com/open?id=1n-SdOt-96gfvu_sXmiMLgtbn1rljSdWH)
+* [Accident data (289 000 accidents from 1975-2019)](https://drive.google.com/open?id=1n-SdOt-96gfvu_sXmiMLgtbn1rljSdWH)
+
 
 ### Trafikkdata
 Lets you [export](https://www.vegvesen.no/vegkart/) traffic flow aggregated on daily/hourly level for road points. <br>
