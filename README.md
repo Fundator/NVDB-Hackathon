@@ -17,9 +17,9 @@ TBA
 We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. 
 
 ### Nasjonal Vegdatabank(NVDB)
-[Overview](https://datakatalogen.vegdata.no/) of all the data available in NVDB. 
-[API documentation](https://www.vegvesen.no/nvdb/apidokumentasjon/)
-[Geographic overview](https://www.vegvesen.no/vegkart/)
+* [Overview](https://datakatalogen.vegdata.no/) of all the data available in NVDB. 
+* [API documentation](https://www.vegvesen.no/nvdb/apidokumentasjon/)
+* [Geographic overview](https://www.vegvesen.no/vegkart/)
 
 
 ### Trafikkdata
