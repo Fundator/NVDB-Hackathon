@@ -21,6 +21,7 @@ We will provide prepared and cleaned datasets in .csv-format for a subset of the
 * [API documentation](https://www.vegvesen.no/nvdb/apidokumentasjon/)
 * [Geographic overview](https://www.vegvesen.no/vegkart/)
 * [Accident data (289 000 accidents from 1975-2019)](https://drive.google.com/open?id=1n-SdOt-96gfvu_sXmiMLgtbn1rljSdWH)
+* [Automatic Traffic Control-points](https://drive.google.com/open?id=1wmy3KJfO-iChxfk6js7JWVOFc1eN3kiJ)
 
 
 ### Trafikkdata
