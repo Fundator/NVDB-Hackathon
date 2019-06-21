@@ -25,7 +25,7 @@ We will provide prepared and cleaned datasets in .csv-format for a subset of the
 * [Accident data (289 000 accidents from 1975-2019)](https://drive.google.com/open?id=1n-SdOt-96gfvu_sXmiMLgtbn1rljSdWH)
 * [Automatic Traffic Control-points (404 rows)](https://drive.google.com/open?id=1wmy3KJfO-iChxfk6js7JWVOFc1eN3kiJ)
 * [Traffic signs(260k rows)](https://drive.google.com/open?id=1mvx8p7CEzHnZXPrKINo9FWSfWxTJeQRk)
-
+* [Air quality data from Trondheim 2015-2019(300k + 400k rows)](https://drive.google.com/drive/folders/1v5pjS4hasifie-89KxstBO2-rh1RLLzZ?usp=sharing)
 ### Trafikkdata
 Lets you [export](https://www.vegvesen.no/vegkart/) traffic flow aggregated on daily/hourly level for road points. <br>
 Example: <br>
