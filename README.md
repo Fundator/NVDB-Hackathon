@@ -11,10 +11,12 @@ A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator
 After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
 
 ## General information
-TBA
+* Location: Klæbuveien 127B, 6th floor. (Kantina)
+* Food and drinks provided by NoIS.
+* Rooms will be made available.
 
 ## Data sources
-We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. 
+We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. It may be wise to restrict your problem to eg. a geographical are or a certain time period. 
 
 ### Nasjonal Vegdatabank(NVDB)
 * [Overview](https://datakatalogen.vegdata.no/) of all the data available in NVDB. 
@@ -35,7 +37,7 @@ Historical weather observations are available through the [Frost API](https://fr
 ### Air Quality Data
 * [NILU API](https://api.nilu.no/docs/)
 
-## Rules 
+## Presentation guidelines
 TBA
 
 ## Evaluation criteria
