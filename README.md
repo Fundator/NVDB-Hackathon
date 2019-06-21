@@ -8,7 +8,7 @@ Registration form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLS
 A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator/NVDB-Hackathon/blob/master/imgs/schedule.PNG)
 
 ## Slack workspace
-After registration, you will get invitation to a slack workspace for the hackathon.
+After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
 
 ## General information
 TBA
