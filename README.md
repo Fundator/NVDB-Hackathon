@@ -32,7 +32,7 @@ Example: <br>
 ### Weather data
 Historical weather observations are available through the [Frost API](https://frost.met.no/) by met.no.
 
-## Air Quality Data
+### Air Quality Data
 * [NILU API](https://api.nilu.no/docs/)
 
 ## Rules 
