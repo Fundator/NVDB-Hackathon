@@ -16,6 +16,8 @@ A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator
 After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
 
 ## Data sources
+* __[A zipped file containing all the data described below can be found here](https://drive.google.com/open?id=17evIeGb9h6d0ZFmC1yMagPC4NNplykZb)__
+
 We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. It may be wise to restrict your problem to eg. a geographical are or a certain time period. 
 
 ### Examples
