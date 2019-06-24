@@ -35,7 +35,8 @@ Example: <br>
 [3 years of hourly traffic flow for Elgeseter gate in Trondheim](https://drive.google.com/open?id=1nG8QWBOlDIQgNmS9rhoRd5BYR6YUqEOw).
 
 ### Weather data
-Historical weather observations are available through the [Frost API](https://frost.met.no/) by met.no.
+* Historical weather observations are available through the [Frost API](https://frost.met.no/) by met.no.
+* [Selected weather data for Trondheim 2016-2019](https://drive.google.com/open?id=1_nHi6IpVQm8-bqrxYk6zdiGd70XX9O5F)
 
 ### Air Quality Data
 * [NILU API](https://api.nilu.no/docs/)
