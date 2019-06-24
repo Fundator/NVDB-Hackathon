@@ -1,22 +1,25 @@
 # NVDB-Hackathon
 Repository for NVDB-Hackathon June 24-25th
 
-## Registration
-Registration form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform?usp=sf_link)
-
-## Schedule
-A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator/NVDB-Hackathon/blob/master/imgs/schedule.PNG)
-
-## Slack workspace
-After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
-
 ## General information
 * Location: Klæbuveien 127B, 6th floor. (Kantina)
 * Food and drinks provided by NoIS.
 * Rooms will be made available.
 
+### Registration
+Registration form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform?usp=sf_link)
+
+### Schedule
+A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator/NVDB-Hackathon/blob/master/imgs/schedule.PNG)
+
+### Slack workspace
+After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
+
 ## Data sources
 We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. It may be wise to restrict your problem to eg. a geographical are or a certain time period. 
+
+### Examples
+We have prepared a [jupyter notebook](https://github.com/Fundator/NVDB-Hackathon/blob/master/Examples%20of%20data%20retrieval.ipynb) with examples of how to use some of the APIs listed below.
 
 ### Nasjonal Vegdatabank(NVDB)
 * [Overview](https://datakatalogen.vegdata.no/) of all the data available in NVDB. 
@@ -32,7 +35,8 @@ Example: <br>
 [3 years of hourly traffic flow for Elgeseter gate in Trondheim](https://drive.google.com/open?id=1nG8QWBOlDIQgNmS9rhoRd5BYR6YUqEOw).
 
 ### Weather data
-Historical weather observations are available through the [Frost API](https://frost.met.no/) by met.no.
+* Historical weather observations are available through the [Frost API](https://frost.met.no/) by met.no.
+* [Selected weather data for Trondheim 2016-2019](https://drive.google.com/open?id=1_nHi6IpVQm8-bqrxYk6zdiGd70XX9O5F)
 
 ### Air Quality Data
 * [NILU API](https://api.nilu.no/docs/)
