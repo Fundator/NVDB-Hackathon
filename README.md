@@ -18,6 +18,9 @@ After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWe
 ## Data sources
 We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. It may be wise to restrict your problem to eg. a geographical are or a certain time period. 
 
+### Examples
+We have prepared a [jupyter notebook](https://github.com/Fundator/NVDB-Hackathon/blob/master/Examples%20of%20data%20retrieval.ipynb) with examples of how to use some of the APIs listed below.
+
 ### Nasjonal Vegdatabank(NVDB)
 * [Overview](https://datakatalogen.vegdata.no/) of all the data available in NVDB. 
 * [API documentation](https://www.vegvesen.no/nvdb/apidokumentasjon/)
