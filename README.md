@@ -49,7 +49,7 @@ Example: <br>
 * [Air quality observations from Trondheim 2015-2019](https://drive.google.com/open?id=1UWQu6LfHfXGjLWg0veRWZJEyPc-xrjUd)
 
 ## Presentation guidelines
-TBA
+* Each team gets 10 minute to present their solution
 
 ## Evaluation criteria
 TBA
