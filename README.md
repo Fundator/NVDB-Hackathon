@@ -29,6 +29,9 @@ We have prepared a [jupyter notebook](https://github.com/Fundator/NVDB-Hackathon
 * [Automatic Traffic Control-points (404 rows)](https://drive.google.com/open?id=1wmy3KJfO-iChxfk6js7JWVOFc1eN3kiJ)
 * [Traffic signs(260k rows)](https://drive.google.com/open?id=1mvx8p7CEzHnZXPrKINo9FWSfWxTJeQRk)
 
+### ELRAPP
+* [Annotated observations of road events 2005-2018(472k rows)](https://drive.google.com/open?id=1hKJcSJ9C2wtQ9r70F6g9T6XtZ2JaYPRB)
+
 ### Trafikkdata
 Lets you [export](https://www.vegvesen.no/vegkart/) traffic flow aggregated on daily/hourly level for road points. <br>
 Example: <br>
@@ -40,7 +43,8 @@ Example: <br>
 
 ### Air Quality Data
 * [NILU API](https://api.nilu.no/docs/)
-* [Air quality data from Trondheim 2015-2019(300k + 400k rows)](https://drive.google.com/drive/folders/1v5pjS4hasifie-89KxstBO2-rh1RLLzZ?usp=sharing)
+* [Air quality data with air quality index, from Trondheim 2015-2019](https://drive.google.com/open?id=1lfeui95qgy1k6LHCUrTKhXeF8o_NOpRN)
+* [Air quality observations from Trondheim 2015-2019](https://drive.google.com/open?id=1UWQu6LfHfXGjLWg0veRWZJEyPc-xrjUd)
 
 ## Presentation guidelines
 TBA
