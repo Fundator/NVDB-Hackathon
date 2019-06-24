@@ -48,6 +48,9 @@ Example: <br>
 * [Air quality data with air quality index, from Trondheim 2015-2019](https://drive.google.com/open?id=1lfeui95qgy1k6LHCUrTKhXeF8o_NOpRN)
 * [Air quality observations from Trondheim 2015-2019](https://drive.google.com/open?id=1UWQu6LfHfXGjLWg0veRWZJEyPc-xrjUd)
 
+### EmissionCalculatorLib
+* Is available [here](https://github.com/NPRA/EmissionCalculatorLib)
+
 ## Presentation from SVV
 Is available [here](TODO)
 
