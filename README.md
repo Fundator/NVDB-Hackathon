@@ -1,19 +1,19 @@
 # NVDB-Hackathon
 Repository for NVDB-Hackathon June 24-25th
 
-## Registration
-Registration form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform?usp=sf_link)
-
-## Schedule
-A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator/NVDB-Hackathon/blob/master/imgs/schedule.PNG)
-
-## Slack workspace
-After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
-
 ## General information
 * Location: Klæbuveien 127B, 6th floor. (Kantina)
 * Food and drinks provided by NoIS.
 * Rooms will be made available.
+
+### Registration
+Registration form can be found [here](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform?usp=sf_link)
+
+### Schedule
+A (tentative) schedule can be seen below ![schedule](https://github.com/Fundator/NVDB-Hackathon/blob/master/imgs/schedule.PNG)
+
+### Slack workspace
+After [registration](https://docs.google.com/forms/d/e/1FAIpQLScPrNp60y64bhgeBWeho6t3uDYlnE1bjeuu8apUUiyVfp1Sfw/viewform), you will get invitation to a slack workspace for the hackathon.
 
 ## Data sources
 We will provide prepared and cleaned datasets in .csv-format for a subset of the data. You are more than welcome to download your own dataset, as long as you consider the time constraint for the hackathon. It may be wise to restrict your problem to eg. a geographical are or a certain time period. 
