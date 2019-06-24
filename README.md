@@ -49,15 +49,14 @@ Example: <br>
 * [Air quality observations from Trondheim 2015-2019](https://drive.google.com/open?id=1UWQu6LfHfXGjLWg0veRWZJEyPc-xrjUd)
 
 ## Presentation from SVV
+Is available [here](TODO)
 
-### Criteria
+### Evaluation criteria
 * Fremkommelighet
 * Sikkerhet
 * Klima / miljø
 
-
 ## Presentation guidelines
 * Each team gets 10 minute to present their solution
 
-## Evaluation criteria
-TBA
+
